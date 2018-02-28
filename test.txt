@@ -1,3 +1,4 @@
 this is a test!
+<<<<<<< Updated upstream
 add a branch of linhaorn-dev,
 try to let master give linhaoran-dev
